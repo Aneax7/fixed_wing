@@ -1,0 +1,17 @@
+,0
+C_Lc,0.328073415
+C_Lc_w,0.334768791
+C_Lmax,1.334693878
+C_Lmax_w,1.404940924
+C_lHLD,0.4
+C_li,0.371965323
+C_lmax_foil,1.082993197
+C_lmax_total,1.482993197
+S,0.3
+V_c,25
+V_s,10
+W_final,3.5
+W_initial,2.5
+cruise_air_altitude,2500
+cruise_air_density,0.956859
+sea_level_density,1.225

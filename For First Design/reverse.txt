@@ -1,0 +1,20 @@
+
+Wing Calculations
+Wing Area:0.28 m2		Span:1.7 m		Wing Loading:8.92857 kg/m2
+Aspect Ratio:10.32143 		Taper Ratio:0.78723 
+
+Oswald Efficiency:0.74828		Mean Aerodynamic Chord:0.21099 m
+
+Speed Calculations
+Minimum Drag Speed:12.8928 m/s		Minimum Power Speed:9.79641 m/s		Stall Speed:11.04797 m/s
+
+Lift Drag Calculations
+Coefficient of Lift "c_L":0.56508		Coefficient of Drag "c_D":0.06316		Drag:2.74121 N
+Lift:24.525 N						Lift to Drag Ratio "L/D":8.94678
+
+Stall Margin:6.95203 m/s		Propulsive Power Required:49.34179 Watt
+
+Cruise Propeller Current Requirement:2.86871 A		Avionics Current Requirement:0.0 A
+Payload Current Requirement:0.0						Total Current Requirement:2.86871 A
+
+Time of Flight:99.76615 min		Total Range:107.74744 km

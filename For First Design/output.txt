@@ -1,0 +1,45 @@
+Pay Load Requirements
+Payload Mass:1 kg		Payload Power Requirements:0 Watt
+
+Aircraft Requirements
+Airframe Mass:1.952 kg		Avionics Power:0 Watt		Fuselage Drag Coefficient:0.03 		Zero Lift Coefficient "C_Do":0.02
+
+Cruise Data
+Cruise Speed:25 m/s		Cruise Altitude:2500 m		Air Density:0.95681 kg/m3		
+Air Temperture:271.91637 K
+
+Battery and Propulsion Inputs
+Battery Capacity:5300 mAh		Single Battery Mass:0.512 kg		Cell Voltage:4.2 V		Cell in Series:4
+Number of Battery:2				Total Capacity Used:90 %			Overall Propulsive Efficiency:100
+
+Wing Inputs
+Wing Loading:12.5 kg/m2		Aspect Ratio:8		Taper Ratio:0.8		Oswald Efficiency "e":0.8105923299393963
+Max Lift Coefficient "c_Lmax":1.5
+
+Battery Calculations
+Total Battery Capacity:10600 mAh		Total Voltage:16.8 V		Total Battery Mass:1.024 kg
+
+Total Aircraft Mass:3.5 kg
+
+Wing Calculations
+Wing Area:0.28 m2		Span:1.49666 m		Semi-Span:0.74833 m
+Root Chord:0.20787 m		Tip Chord:0.1663 m
+Mass Fraction:57.82899999999999 %
+
+Speed Calculations
+Minimum Drag Speed:15.93636 m/s		Minimum Power Speed:12.10902 m/s		Stall Speed:13.07214 m/s
+
+Lift Drag Calculations
+Coefficient of Lift "c_L":0.41011		Coefficient of Drag "c_D":0.05826		Drag:4.87722 N
+Lift:34.335 N						Lift to Drag Ratio "L/D":7.03986
+
+Stall Margin:11.92786 m/s		Propulsive Power Required:121.93061 Watt
+
+Cruise Propeller Current Requirement:7.25777 A		Avionics Current Requirement:0.0 A
+Payload Current Requirement:0.0						Total Current Requirement:7.25777 A
+
+Time of Flight:78.86715 min		Total Range:118.30073 km
+
+
+Propeller Design
+Propeller Shaft Power:251.79182 Watt		Propeller Outlet Velocity:28.25209 m\s		Efficieny:0.93893
